@@ -4,6 +4,7 @@ I'm starting only his adventure with markdown, because I wanted to have the poss
 With a script by [evilstreak](https://github.com/evilstreak) wrote a very simple implementation. The whole is not complicated, and the biggest job was done just [evilstreak](https://github.com/evilstreak). Thanks
 
 ## Demo
+See how [it](http://projects.tiptopdesign.pl/markdown-live-editor/) works. Maybe it will help you somehow. I hope.
 ![demo](http://projects.tiptopdesign.pl/markdown-live-editor/images/markdown.png)
 
 ## License
