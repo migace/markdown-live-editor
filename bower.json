@@ -16,7 +16,6 @@
     "tests"
   ],
   "dependencies": {
-    "pen": "~0.2.2",
     "bootstrap": "~3.3.5"
   }
 }

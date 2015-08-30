@@ -4,6 +4,17 @@
     border-radius: 0;
 }
 
+#source,
+#result {
+    height: 250px;
+}
+
+#editor,
+#result-content {
+    width: 100%;
+    height: 100%;
+}
+
 #footer {
     color: #000;
     position: absolute;
