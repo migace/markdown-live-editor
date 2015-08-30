@@ -1,0 +1,17 @@
+/* style.css */
+
+#header .navbar {
+    border-radius: 0;
+}
+
+#footer {
+    color: #000;
+    position: absolute;
+    bottom: 0;
+    padding: 25px 0;
+    left: 0;
+    width: 100%;
+}
+#footer a {
+    color: #9d9d9d;
+}

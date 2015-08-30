@@ -1,0 +1,22 @@
+{
+  "name": "markdown-live-editor",
+  "version": "0.1",
+  "authors": [
+    "Michal Gacek <gacek.michael@outlook.com>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pen": "~0.2.2",
+    "bootstrap": "~3.3.5"
+  }
+}
