@@ -5,6 +5,7 @@ With a script by [evilstreak](https://github.com/evilstreak) wrote a very simple
 
 ## Demo
 See how [it](http://projects.tiptopdesign.pl/markdown-live-editor/) works. Maybe it will help you somehow. I hope.
+
 ![demo](http://projects.tiptopdesign.pl/markdown-live-editor/images/markdown.png)
 
 ## License
